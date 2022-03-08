@@ -1,0 +1,49 @@
+#m2 {
+    background-color: lightblue;
+}
+#m1{
+    text-align: center;
+    font-family: 'Truculenta', sans-serif;
+
+}
+#s1{
+float: center;
+position: center;
+color: blue;
+}
+#main-navbar{
+    background-color: antiquewhite;
+    font-size: 20px;
+    overflow: hidden;
+}
+#navbar-container{
+    float: left;
+    width:100%;
+    position: left;
+}
+#navbar-container ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    position:left;
+    left:50%;
+    float: left;
+}
+#navbar-container ul li{
+    float:left;
+    position:left;
+    right:50%;
+    display:block;
+}
+#navbar-container ul li a{
+    display:block;
+    padding:10px 20px;
+    color: rgb(18, 34, 177);
+    text-decoration: none;
+}
+#navbar-container  li :hover{
+    background-color:aliceblue;
+}
+#onpage{
+    text-decoration: underline overline;
+}
