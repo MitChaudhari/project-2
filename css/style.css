@@ -3,14 +3,29 @@
 }
 #m1{
     text-align: center;
-    font-family: 'Truculenta', sans-serif;
+    font-family: 'Sansita Swashed', cursive;
+    background-color: aliceblue;
 
 }
 #s1{
-float: center;
-position: center;
-color: blue;
+color: rgb(7, 7, 7);
+font-family: 'Truculenta', sans-serif;
 }
+#s2{
+    font-size: 30px;
+}
+#s3{
+    color: rgb(7, 7, 7);
+font-family: 'Truculenta', sans-serif;
+}
+#s4{
+    font-family: 'Truculenta', sans-serif;
+    font-size: 20px;
+}
+body{
+    background-color: darkcyan;
+}
+
 #main-navbar{
     background-color: antiquewhite;
     font-size: 20px;
@@ -37,12 +52,12 @@ color: blue;
 }
 #navbar-container ul li a{
     display:block;
-    padding:10px 20px;
+    padding:20px 50px;
     color: rgb(18, 34, 177);
     text-decoration: none;
 }
 #navbar-container  li :hover{
-    background-color:aliceblue;
+    background-color:rgb(170, 160, 68);
 }
 #onpage{
     text-decoration: underline overline;
