@@ -1,30 +1,3 @@
-#m2 {
-    background-color: lightblue;
-}
-#m1{
-    text-align: center;
-    font-family: 'Sansita Swashed', cursive;
-    background-color: aliceblue;
-
-}
-#s1{
-color: rgb(7, 7, 7);
-font-family: 'Truculenta', sans-serif;
-}
-#s2{
-    font-size: 30px;
-}
-#s3{
-    color: rgb(7, 7, 7);
-font-family: 'Truculenta', sans-serif;
-}
-#s4{
-    font-family: 'Truculenta', sans-serif;
-    font-size: 20px;
-}
-body{
-    background-color: darkcyan;
-}
 
 #main-navbar{
     background-color: antiquewhite;
@@ -62,3 +35,142 @@ body{
 #onpage{
     text-decoration: underline overline;
 }
+
+
+
+#index-body {
+    background-color: lightblue;
+}
+#index-title{
+    text-align: center;
+    font-family: 'Sansita Swashed', cursive;
+    background-color: aliceblue;
+    padding:10px 25px;
+    
+}
+#section-title{
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-family: 'Truculenta', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color:#3D9970;
+    text-align: center;
+    padding:10px 25px;
+   
+}
+
+ul{
+    list-style-type: "↪";
+    font-weight:bold;
+    color: rgb(107, 43, 6);
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 18px;
+    line-height: 0.7cm;
+}
+
+#sub-title{
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-family: 'Truculenta', sans-serif;
+    font-size: 22px;
+    text-indent: 0.3cm;
+    
+}
+#s1{
+    font-family: 'Sansita Swashed', cursive;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-family: 'Truculenta', sans-serif;
+    font-size: large;
+    text-indent: 0.3cm;
+
+}
+  #india-title{
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+    padding:10px 25px;
+    background-color: rgb(195, 217, 236);
+  }
+  #ind-title{
+    font-family: 'Merienda', cursive;
+    text-align: center;
+    color: azure;
+    background-color: rgb(0, 0, 0);
+    font-weight:bold;
+    padding:10px 25px;
+    font-size: 30px;
+  }
+  #para-sty{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ecbf7c;
+    padding: 50px;
+    font-size: 20px;
+    width: 300px;
+    margin: 20px;
+    border:15px#d3ab61;
+    font-size: 22px;
+   
+  }
+  img{
+      border-radius:8px ;
+      height: 500px;
+      vertical-align:bottom;
+     
+  }
+  span{
+      display: inline-block;
+  }
+
+  
+#india-body{
+    background-color: rgb(0, 0, 0);
+}
+body{
+    background-color: antiquewhite;
+}
+#nin-title{
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+    background-color: #d3ab61;
+    padding: 2%;
+}
+#nin-sub{
+    font-family: 'Red Hat Mono', monospace;
+    text-align: center;
+}
+#histroy{
+    background-color: #3D9970;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    text-align: center;
+}
+#marketing{
+    background-color: lightgrey;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    text-align: center;
+}
+#seal{
+    background-color: lightcoral;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    text-align: center;
+}
+#summary{
+    background-color: aliceblue;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight:bold;
+    text-align: center;
+}
+iframe{
+animation-play-state: running;
+}
+footer {
+    font-family: 'Sansita Swashed', cursive;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 10px;
+    font-size: 22px;
+    font-weight:bold;
+  }
