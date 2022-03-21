@@ -48,10 +48,8 @@
     padding:10px 25px;
     
 }
-#section-title{
-    font-family: 'Sansita Swashed', cursive;
-    font-family: 'Stint Ultra Condensed', cursive;
-    font-family: 'Truculenta', sans-serif;
+.section-title{
+    font-family: 'Red Hat Mono', monospace;
     color: rgb(0, 0, 0);
     background-color:#3D9970;
     text-align: center;
@@ -70,12 +68,12 @@ ul{
     line-height: 0.7cm;
 }
 
-#sub-title{
-    font-family: 'Sansita Swashed', cursive;
-    font-family: 'Stint Ultra Condensed', cursive;
-    font-family: 'Truculenta', sans-serif;
-    font-size: 22px;
+.sub-title{
+    font-family: 'Smokum', cursive;
+    font-size: 25px;
     text-indent: 0.3cm;
+
+    font-weight: bold;
     
 }
 #s1{
@@ -92,7 +90,7 @@ ul{
     padding:10px 25px;
     background-color: rgb(195, 217, 236);
   }
-  #ind-title{
+  .ind-title{
     font-family: 'Merienda', cursive;
     text-align: center;
     color: azure;
@@ -101,7 +99,7 @@ ul{
     padding:10px 25px;
     font-size: 30px;
   }
-  #para-sty{
+  .para-sty{
     font-family: 'Josefin Sans', sans-serif;
     color: #ecbf7c;
     padding: 50px;
@@ -135,7 +133,7 @@ body{
     background-color: #d3ab61;
     padding: 2%;
 }
-#nin-sub{
+.nin-sub{
     font-family: 'Red Hat Mono', monospace;
     text-align: center;
 }
@@ -165,6 +163,7 @@ body{
 }
 iframe{
 animation-play-state: running;
+
 }
 footer {
     font-family: 'Sansita Swashed', cursive;
