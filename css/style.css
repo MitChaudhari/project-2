@@ -54,7 +54,6 @@
     background-color:#3D9970;
     text-align: center;
     padding:10px 25px;
-   
 }
 
 ul{
@@ -72,17 +71,13 @@ ul{
     font-family: 'Smokum', cursive;
     font-size: 25px;
     text-indent: 0.3cm;
-
     font-weight: bold;
-    
 }
 #s1{
-    font-family: 'Sansita Swashed', cursive;
-    font-family: 'Stint Ultra Condensed', cursive;
-    font-family: 'Truculenta', sans-serif;
+    font-family: 'Inconsolata', monospace;
     font-size: large;
     text-indent: 0.3cm;
-
+    font-weight: bold;
 }
   #india-title{
     font-family: 'Gloria Hallelujah', cursive;
@@ -108,7 +103,6 @@ ul{
     margin: 20px;
     border:15px#d3ab61;
     font-size: 22px;
-   
   }
   img{
       border-radius:8px ;
